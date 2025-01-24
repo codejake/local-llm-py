@@ -1,0 +1,9 @@
+[project]
+name = "llama-3-2-3b-py"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mlx-lm>=0.21.1",
+]
